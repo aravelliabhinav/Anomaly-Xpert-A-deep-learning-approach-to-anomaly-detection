@@ -1,0 +1,6 @@
+![Screenshot 2024-03-31 153057](https://github.com/aravelliabhinav/Anomaly-Xpert-A-deep-learning-approach-to-anomaly-detection/assets/76583380/03873917-7af2-44ac-b301-d28ecf14c6b6)
+![Screenshot 2024-03-31 153105](https://github.com/aravelliabhinav/Anomaly-Xpert-A-deep-learning-approach-to-anomaly-detection/assets/76583380/a52311fe-8a37-4c36-a5ed-1a2145a02c31)
+![Screenshot 2024-03-31 153116](https://github.com/aravelliabhinav/Anomaly-Xpert-A-deep-learning-approach-to-anomaly-detection/assets/76583380/dec7d56c-48a1-4a01-ab50-298f0cba21b8)
+![Screenshot 2024-03-31 153125](https://github.com/aravelliabhinav/Anomaly-Xpert-A-deep-learning-approach-to-anomaly-detection/assets/76583380/524cd93f-2562-4b58-845d-2df8bf75ad81)
+![Screenshot 2024-03-31 153132](https://github.com/aravelliabhinav/Anomaly-Xpert-A-deep-learning-approach-to-anomaly-detection/assets/76583380/93e61622-fc0b-40f5-ac35-cf774e93613a)
+![Screenshot 2024-03-31 153139](https://github.com/aravelliabhinav/Anomaly-Xpert-A-deep-learning-approach-to-anomaly-detection/assets/76583380/a4851394-683f-4e66-80f7-d1bde01866ed)
